@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwitchDateTimePicker</string>
+    <string name="open_datetime_dialog">open_datetime_dialog</string>
+    <string name="clean">Clean</string>
+</resources>
